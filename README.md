@@ -1,7 +1,7 @@
 <h1 align="center">Fokus Counter</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7a806a79-04e5-4d48-93a0-713545e6ea3a" alt="Banner barbería"/>
+  <img src="https://github.com/user-attachments/assets/7a806a79-04e5-4d48-93a0-713545e6ea3a" alt="tablero con cronometro"/>
 </p>
 
 <p align="right">
